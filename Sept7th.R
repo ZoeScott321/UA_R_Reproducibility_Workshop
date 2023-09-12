@@ -25,7 +25,7 @@
 #-ne 
 
 
-#if we want to chang ethe directory we use command line: "cd"
+#if we want to change the directory we use command line: "cd"
 
 #if want help/to know all the command options that i can use type "man ls" in terminal 
 #this prints out the manual with all the "- 'letter'" options
