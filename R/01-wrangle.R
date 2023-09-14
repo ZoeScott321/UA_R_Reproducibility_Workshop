@@ -47,3 +47,6 @@ gap_big <- filter(gapminder, pop > 1000000)
 #write data/save dataset and save it in the data_clean folder
 write_csv(gap_1980s, "data_clean/gapminder_1980s.csv")
 
+
+#practice, for adding/makin chang
+print("hello!")
